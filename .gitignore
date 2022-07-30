@@ -130,3 +130,6 @@ dmypy.json
 
 # mac update   
 .DS_Store
+
+# Adding config.py file.
+api_keys.py
